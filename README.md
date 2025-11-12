@@ -80,6 +80,17 @@
   </a>
 </p>
 
+<h3 align="left">📚 Key Learnings & Tools (ALX ProDev Backend)</h3>
+<ul>
+  <li><strong>Project Planning & Database Design:</strong> Advanced SQL queries, database normalization, schema design, indexing, and query optimization.</li>
+  <li><strong>Advanced Python Concepts:</strong> Generators, decorators, context managers, and asynchronous programming for scalable and efficient code.</li>
+  <li><strong>Testing:</strong> Unit & integration tests using <em>pytest</em> for robust and reliable applications.</li>
+  <li><strong>DevOps & Containerization:</strong> CI/CD pipelines (GitHub Actions, Jenkins), Docker containerization, Kubernetes orchestration.</li>
+  <li><strong>Microservices & Messaging:</strong> Microservices architecture, asynchronous communication via RabbitMQ and Kafka.</li>
+  <li><strong>Security & Performance:</strong> Authentication & authorization (JWT, OAuth, Django Auth), caching (Redis, Memcached), cron jobs, and best practices against SQL injection, XSS, and CSRF.</li>
+  <li><strong>Monitoring & Networking:</strong> Bug reporting tools (Sentry, Bugzilla) and advanced network traffic analysis for optimization.</li>
+</ul>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrickmbithi&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
