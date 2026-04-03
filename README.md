@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fredrick Mbithi</h1>
+<!-- <h1 align="center">Hi 👋, I'm Fredrick Mbithi</h1>
 <h3 align="center">I’m a software engineer-in-training (ALX SWE) focused on building reliable, maintainable, and useful systems from Kenya</h3>
 
 <p align="left">
@@ -157,4 +157,4 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickmbithi" alt="GitHub Streak"/>
-</p>
+</p> -->
